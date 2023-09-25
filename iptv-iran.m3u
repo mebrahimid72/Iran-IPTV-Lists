@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports Xtra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.1.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.4.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.5.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.6.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.7.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 8 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.8.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Liga US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.liga.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX Soccer Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.soccer.plus.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Undefined",IRIB 3 (480p)
+https://af.ayas.ir/hls2/tv3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="Undefined",IRIB Amouzesh (540p)
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="Undefined",IRIB Mostanad (540p)
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Undefined",IRIB Namayesh (540p)
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/jNaABGG.png" group-title="Undefined",IRIB Nasim (540p)
+https://live.aionet.ir/hls/nasim/nasim.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Pooya & Nahal (540p)
+https://live.aionet.ir/hls/pooya/pooya.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/mgcVd52.png" group-title="Undefined",IRIB Salamat (540p)
+https://live.aionet.ir/hls/salamat/salamat.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/xe5KwWS.png" group-title="Undefined",IRIB Tamasha (540p)
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Undefined",IRIB Varzesh (1080p)
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="Undefined",IRIB1 (720p)
+https://live.aionet.ir/hls/tv1/tv1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="Undefined",IRIB2 (540p)
+https://live.aionet.ir/hls/tv2/tv2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="Undefined",IRIB4 (540p)
+https://live.aionet.ir/hls/tv4/tv4.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="Undefined",IRIB5 (540p)
+https://live.aionet.ir/hls/tv5/tv5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Undefined",Varzesh (480p)
+https://af.ayas.ir/hls2/varzeshtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Football IT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.football.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sky Sports Football
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lvupvmnk.ss.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SuperSport Football
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.football.ze.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SuperSport Football+
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.football.plus.ze.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Persiana HD (720p)
+https://persiana-hd.icdndhcp.com/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Persiana Rap (720p)
+https://persiana-rap.icdndhcp.com/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Persiana Sports (720p)
+https://af.ayas.ir/hls2/persiana.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/LeLkpDr.png" group-title="Undefined",PERSIANA ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",Persiana Music
+http://51.210.199.24/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Movies",Persian Film (720p) [Not 24/7]
+https://pfilmhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/p8j19I6.png" group-title="News",VoA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Hadi TV Pashto and Persian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8?checkedby:iptvcat.com
